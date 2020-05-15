@@ -1,0 +1,1 @@
+class RespondsAPI : ArrayList<RespondsAPIItem>()
